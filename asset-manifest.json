@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/hair-salon/static/css/main.64a1e83e.chunk.css",
-    "main.js": "/hair-salon/static/js/main.249630fc.chunk.js",
-    "main.js.map": "/hair-salon/static/js/main.249630fc.chunk.js.map",
-    "runtime-main.js": "/hair-salon/static/js/runtime-main.42ddc2a1.js",
-    "runtime-main.js.map": "/hair-salon/static/js/runtime-main.42ddc2a1.js.map",
-    "static/js/2.f522b633.chunk.js": "/hair-salon/static/js/2.f522b633.chunk.js",
-    "static/js/2.f522b633.chunk.js.map": "/hair-salon/static/js/2.f522b633.chunk.js.map",
-    "index.html": "/hair-salon/index.html",
-    "precache-manifest.21a16e211595d3e90d1e0d5b313e835e.js": "/hair-salon/precache-manifest.21a16e211595d3e90d1e0d5b313e835e.js",
-    "service-worker.js": "/hair-salon/service-worker.js",
-    "static/css/main.64a1e83e.chunk.css.map": "/hair-salon/static/css/main.64a1e83e.chunk.css.map",
-    "static/js/2.f522b633.chunk.js.LICENSE": "/hair-salon/static/js/2.f522b633.chunk.js.LICENSE",
-    "static/media/Subtle-Prism.svg": "/hair-salon/static/media/Subtle-Prism.7851f997.svg",
-    "static/media/loading.svg": "/hair-salon/static/media/loading.47aa2046.svg",
-    "static/media/scissors.jpg": "/hair-salon/static/media/scissors.b40e9d4e.jpg",
-    "static/media/up-arrow.svg": "/hair-salon/static/media/up-arrow.95887f54.svg"
+    "main.css": "/static/css/main.64a1e83e.chunk.css",
+    "main.js": "/static/js/main.72a3a6f4.chunk.js",
+    "main.js.map": "/static/js/main.72a3a6f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c3c7c125.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c3c7c125.js.map",
+    "static/js/2.f522b633.chunk.js": "/static/js/2.f522b633.chunk.js",
+    "static/js/2.f522b633.chunk.js.map": "/static/js/2.f522b633.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.60b59dda8d937915bcd7d2b5aeb1d036.js": "/precache-manifest.60b59dda8d937915bcd7d2b5aeb1d036.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.64a1e83e.chunk.css.map": "/static/css/main.64a1e83e.chunk.css.map",
+    "static/js/2.f522b633.chunk.js.LICENSE": "/static/js/2.f522b633.chunk.js.LICENSE",
+    "static/media/Subtle-Prism.svg": "/static/media/Subtle-Prism.7851f997.svg",
+    "static/media/loading.svg": "/static/media/loading.47aa2046.svg",
+    "static/media/scissors.jpg": "/static/media/scissors.b40e9d4e.jpg",
+    "static/media/up-arrow.svg": "/static/media/up-arrow.95887f54.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.42ddc2a1.js",
+    "static/js/runtime-main.c3c7c125.js",
     "static/js/2.f522b633.chunk.js",
     "static/css/main.64a1e83e.chunk.css",
-    "static/js/main.249630fc.chunk.js"
+    "static/js/main.72a3a6f4.chunk.js"
   ]
 }
